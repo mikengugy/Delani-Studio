@@ -14,7 +14,7 @@
 <p>Push the changes and create a pull request<p>
 
 <h2>Live Link<h2>
-<p>Here is a live link to the application:  <p>
+<p>Here is a live link to the application: https://mikengugy.github.io/Delani-Studio/ <p>
 
 <h2>Behaviour Driven Developement<h2>
 <h2>Enter your name in the fill in form<h2>
